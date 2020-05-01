@@ -11,7 +11,7 @@ I'm answering questions below: <br/>
 * Q1:<br/>
 Lognormal distribution.<br/>
 The parameter of the lognormal distribution is 0.7740207642832148, 20.943962974413324, and 614.3445916251605 <br/>
-<img src="https://drive.google.com/uc?export=view&id=18ckLoHDt8jLHdY4x82Ski6O4U6MBIiU2"  width="400" height="350">
+<img src="https://drive.google.com/uc?export=view&id=18ckLoHDt8jLHdY4x82Ski6O4U6MBIiU2"  width="500" height="350">
 
 * Q2:<br/>
 According to the data, the highest numbers of trip is from "Central Park S & 6 Ave" to "Central Park S & 6 Ave", which is 47215 times. **However**, it seems the highest four numbers of trip are **not** "trip" at all, since they rent and returned at the same stop. It might be the testing sets which was recorded in this data.<br/>
