@@ -11,7 +11,7 @@ I'm answering questions below: <br/>
 * Q1:<br/>
 Lognormal distribution.<br/>
 The parameter of the lognormal distribution is 0.7740207642832148, 20.943962974413324, and 614.3445916251605 <br/>
-<img src="https://drive.google.com/uc?export=view&id=18ckLoHDt8jLHdY4x82Ski6O4U6MBIiU2"  width="800" height="280">
+<img src="https://drive.google.com/uc?export=view&id=18ckLoHDt8jLHdY4x82Ski6O4U6MBIiU2"  width="800" height="560">
 
 * Q2:<br/>
 According to the data, the highest numbers of trip is from "Central Park S & 6 Ave" to "Central Park S & 6 Ave", which is 47215 times. **However**, it seems the highest four numbers of trip are **not** "trip" at all, since they rent and returned at the same stop. It might be the testing sets which was recorded in this data.<br/>
@@ -22,8 +22,8 @@ Detail answer please view the code. Below shows the visualization of service dat
 <img src="https://drive.google.com/uc?export=view&id=1mRCi4cIM5_wuiW8f2ZJBel4Z4NYC5drO"  width="800" height="280">
 <img src="https://drive.google.com/uc?export=view&id=1JtOdmk0SDsIW5LxOdsYE4ELUeg8jPoNj"  width="800" height="280">
 <img src="https://drive.google.com/uc?export=view&id=1S0-weiZxzxMNSUkpcG2Wke1bbm1WGMw-"  width="800" height="280">
-<img src="https://drive.google.com/uc?export=view&id=1UyRBuwhItyk-jtCaFe7QSg_fmTFozB2k"  width="800" height="560">
-<img src="https://drive.google.com/uc?export=view&id=1GaFLi_mkGNbAMd5osZofOCg_5SY3ZTe1"  width="800" height="560">
+<img src="https://drive.google.com/uc?export=view&id=1UyRBuwhItyk-jtCaFe7QSg_fmTFozB2k"  width="800" height="580">
+<img src="https://drive.google.com/uc?export=view&id=1GaFLi_mkGNbAMd5osZofOCg_5SY3ZTe1"  width="800" height="580">
 <img src="https://drive.google.com/uc?export=view&id=13fulQlW2qpi2Roh2eEMCsa-ITnz6EC-s"  width="800" height="280">
 
 * Appendix: Draw Geomap<br/>
