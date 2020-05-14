@@ -7,7 +7,8 @@ I'm answering questions below: <br/>
 * Q2: What is the most popular Citibike trip? 
 * Q3: Were there new bike stations introduced or removed at any point in time? What makes you think it were or weren't?
 
-# Answer:
+# Answer: 
+(Note: if the image doesn't show, please right click the image and choose "Load image".)
 * Q1:<br/>
 Lognormal distribution.<br/>
 The parameter of the lognormal distribution is 0.7740207642832148, 20.943962974413324, and 614.3445916251605 <br/>
@@ -26,6 +27,6 @@ Detail answer please view the code. Below shows the visualization of service dat
 <img src="https://drive.google.com/uc?export=view&id=1GaFLi_mkGNbAMd5osZofOCg_5SY3ZTe1"  width="1000" height="650">
 <img src="https://drive.google.com/uc?export=view&id=13fulQlW2qpi2Roh2eEMCsa-ITnz6EC-s"  width="1000" height="400">
 
-* Appendix: Draw Geomap<br/>
+* Appendix: Geomap<br/>
 Since I would also like to know exact locations of stations and its popularity, I also draw a Geomap to better understand the relationship.
 <img src="https://drive.google.com/uc?export=view&id=1aat6eI8PwGBk3cbOm0DJS1z1PmChr5F0"  width="800" height="560">
