@@ -8,7 +8,7 @@ I'm answering questions below: <br/>
 * Q3: Were there new bike stations introduced or removed at any point in time? What makes you think it were or weren't?
 
 # Answer: 
-(Note: if the image doesn't show, please right click the image and choose "Load image".)
+(Note: if the image doesn't show, please right click the image and choose "Reload image".)
 * Q1:<br/>
 Lognormal distribution.<br/>
 The parameter of the lognormal distribution is 0.7740207642832148, 20.943962974413324, and 614.3445916251605 <br/>
