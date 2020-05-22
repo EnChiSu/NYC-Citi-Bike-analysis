@@ -20,12 +20,12 @@ If we look at the highest number of trip which rent and returned at different st
 
 * Q3:<br/>
 Detail answer please view the code. Below shows the visualization of service dates of every stations.
-<img src="https://drive.google.com/uc?export=view&id=1mRCi4cIM5_wuiW8f2ZJBel4Z4NYC5drO"  width="1000" height="400">
-<img src="https://drive.google.com/uc?export=view&id=1JtOdmk0SDsIW5LxOdsYE4ELUeg8jPoNj"  width="1000" height="400">
-<img src="https://drive.google.com/uc?export=view&id=1S0-weiZxzxMNSUkpcG2Wke1bbm1WGMw-"  width="1000" height="400">
-<img src="https://drive.google.com/uc?export=view&id=1UyRBuwhItyk-jtCaFe7QSg_fmTFozB2k"  width="1000" height="650">
-<img src="https://drive.google.com/uc?export=view&id=1GaFLi_mkGNbAMd5osZofOCg_5SY3ZTe1"  width="1000" height="650">
-<img src="https://drive.google.com/uc?export=view&id=13fulQlW2qpi2Roh2eEMCsa-ITnz6EC-s"  width="1000" height="400">
+<img src="https://drive.google.com/uc?export=view&id=1mRCi4cIM5_wuiW8f2ZJBel4Z4NYC5drO"  width="900" height="360">
+<img src="https://drive.google.com/uc?export=view&id=1JtOdmk0SDsIW5LxOdsYE4ELUeg8jPoNj"  width="900" height="360">
+<img src="https://drive.google.com/uc?export=view&id=1S0-weiZxzxMNSUkpcG2Wke1bbm1WGMw-"  width="900" height="360">
+<img src="https://drive.google.com/uc?export=view&id=1UyRBuwhItyk-jtCaFe7QSg_fmTFozB2k"  width="900" height="585">
+<img src="https://drive.google.com/uc?export=view&id=1GaFLi_mkGNbAMd5osZofOCg_5SY3ZTe1"  width="900" height="585">
+<img src="https://drive.google.com/uc?export=view&id=13fulQlW2qpi2Roh2eEMCsa-ITnz6EC-s"  width="900" height="360">
 
 * Appendix: Geomap<br/>
 Since I would also like to know exact locations of stations and its popularity, I also draw a Geomap to better understand the relationship.
